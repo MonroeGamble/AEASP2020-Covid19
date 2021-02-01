@@ -4,4 +4,4 @@
 ## Project: Covid-19 Exploratory Data
 ## Created: 06/21/2020
 ## Description: This code explores data provided by New York Times Covid-19 tracker usingn R and STATA. 
-## We evaluate pre- and post- memorial day 2020 trends.
+## Code evaluates pre- and post- memorial day 2020 trends.
